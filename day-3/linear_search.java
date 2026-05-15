@@ -1,4 +1,4 @@
-        package day-3;
+
 
         public class linear_search {
             public static void main(int[]args) {
@@ -17,4 +17,4 @@
                     }
                 }
             }
-        }
+        

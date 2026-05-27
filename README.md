@@ -17,7 +17,7 @@ Thanks for visiting my repository 💙
 
 ---
 
-## 🌟 A
+## 🌟 About
 
 This repository contains my daily Data Structures & Algorithms practice in Java.  
 I use this space to improve problem-solving skills, strengthen coding fundamentals, and track my consistency journey.

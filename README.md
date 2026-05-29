@@ -1,4 +1,4 @@
-# 🚀 DSA Practice Reposito
+# 🚀 DSA Practice Repository
 
 <div align="center">
 

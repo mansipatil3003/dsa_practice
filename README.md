@@ -11,7 +11,7 @@
 <div align="center">
 ⭐ “Small daily improvements lead to big results.”
 
-Thanks for visiting my reposito 💙
+Thanks for visiting my repository 💙
 
 </div> ```
 
